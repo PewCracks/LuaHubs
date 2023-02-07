@@ -24,7 +24,6 @@ index = hookmetamethod(game, "__index", function(self, Key)
     return index(self, Key)
 end)
 wait(1)
---Boronide™ Obfuscation, v0.6.4
 
 local P,R,H=nil,nil,nil([[
 
