@@ -5,6 +5,7 @@ local Folder = "ExtremeHUB"
 local File = Folder .. "/Key.txt";
 if not isfolder(Folder) then makefolder(Folder)end;
 if not isfile(File) then writefile(File, Key)end;
+wait(.4)
 
 local Get, index = game["HttpGet"];
 local Http = newcclosure(function(self, Url)
