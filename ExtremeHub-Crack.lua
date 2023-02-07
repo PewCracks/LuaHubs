@@ -1,5 +1,5 @@
 -- // For learning purposes. GitHub: PewCracks
-local Key = ("a"):rep(32);
+local Key = ("P"):rep(32);
 
 local Folder = "ExtremeHUB"
 local File = Folder .. "/Key.txt";
