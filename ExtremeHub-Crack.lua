@@ -1,3 +1,4 @@
+-- // For learning purposes. GitHub: PewCracks
 local Key = ("a"):rep(32);
 
 local Folder = "ExtremeHUB"
