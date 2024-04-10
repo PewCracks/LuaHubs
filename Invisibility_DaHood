@@ -1,3 +1,4 @@
+-- // For learning purposes. GitHub: PewCracks
 local Hook, RunService, ConnectionAdded = clonefunction(hookfunction), game:GetService("RunService"), nil;
 
 ConnectionAdded = game:GetService("CoreGui").ChildAdded:Connect(function(v)
